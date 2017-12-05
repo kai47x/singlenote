@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SingleNote</string>
+    <string name="strNote">Note</string>
+    <string name="btnLoadStr">Load</string>
+    <string name="btnSaveStr">Save</string>
+    <string name="strEnterYourNote">Enter your note here ...</string>
+</resources>
